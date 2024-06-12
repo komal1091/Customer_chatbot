@@ -1,0 +1,55 @@
+AI powered ticketing systems are tools that leverage AI to help customer service teams handle requests more efficiently while also reducing strain on human agents. The AI component often handles routine tasks like sorting and routing conversations. 
+Depending on the specific tool, it may also be able to do things like summarize conversations to help get reps up to speed on an issue quickly or offer writing assistance to change the tone of a response, shorten it, or lengthen it.  
+Even though there are some variants in capability between different AI ticketing tools, there are a few key benefits those who invest in the technology generally see: 
+Faster response times — AI helps improve response times by doing things like suggesting answers for reps, offering writing assistance, and summarizing conversations. 
+Less strain on human reps — Repetitive, routine tasks like sorting and assigning tickets can be a drain on human agents and is something AI can take off their plates, giving them more time to do what they do best: help customers. 
+Higher customer satisfaction — Faster response times and access to more robust self-service tools like AI chatbots can improve the overall experience of interacting with support, leading to more satisfied customers. 
+Most of these gains come from AI’s ability to augment human agents' abilities as well as remove routine, repetitive tasks that can slow reps down. 
+Help Scout is a complete customer communication platform that gives teams access to the tools they need to deliver outstanding customer experiences. When you sign up you get access to an omnichannel shared inbox, a knowledge base builder, messaging, and AI tools. 
+The AI summarize feature helps get reps up to speed quickly by summarizing long conversations into bullet points. There’s also AI assist, which helps agents write even better responses. It can shorten or lengthen a response, update the tone, and check grammar and spelling. Last, AI drafts can actually write an entire response to a request based on past conversations and content in your help center. 
+Along with the AI features there are also a host of other ways to help your team be more efficient and reduce strain on human agents. Things like saved replies help agents respond to common questions quickly. There’s also collision detection, which shows when another agent is working on a request to help avoid duplicate work. On top of those, there are also workflows, which let you automate routine tasks based on the conditions you set. 
+Price: Free trial available. Plans including AI features start at $44/user per month.
+SysAid
+Best AI ticketing software for IT teams.
+If you’re an IT team looking for an AI-powered ticketing system, then SysAid is one to consider. You can automate workflows and tasks like prioritizing, assigning, and sorting requests. There’s also generative writing features that help agents write responses to requests. 
+With SysAid, you can also offer things like SLAs for multiple organizations as well as self-service customer portals. They also have a number of prebuilt ITIL templates teams can use to get up and running quickly. 
+Price: Contact for pricing. 
+Intercom
+Best AI ticketing software for targeted messaging.
+Intercom started off mostly as a chat and pop-up messaging tool but has added more support capabilities over the years. Their core AI feature is an AI agent called Fin. Fin is trained on your own help documentation and is able to interact with customers directly. 
+Through Fin they also offer agent assist features. For example, Fin can suggest answers for requests based on previous conversations or surface relevant help center articles to share. You can also set up custom ticket sorting and assign workflows. 
+Price: Free trial available. Plans start at $39/seat per month. AI features are available at additional cost; check the Intercom pricing page for more details.
+Freshdesk
+Best AI ticketing software for call centers.
+Freshdesk is a longtime help desk software that is generally associated with call center settings due to its phone support features. They’ve also recently added AI features with their Freddy AI tool. The AI capabilities basically span three areas: self-service, agent assistance, and analytics. 
+Their self-service features center around AI chatbots and are mostly meant to handle more basic requests. Along with chatbots they also have agent assist features that do things like suggest next steps for a request and give writing assistance. Last, they have Freddy Insights, which analyzes request trends to give you additional insights and tools to better serve your customers. 
+Price: Free trial and plan available. Paid plans start at $15/agent per month. AI features come at an additional cost and not all features are available across all plans.
+Zendesk
+Best AI ticketing software for fully virtual agents.
+Zendesk is a well-known help desk tool that has added a number of AI-powered features in recent years. They offer AI agent capabilities, which are essentially bots that can respond to certain requests. 
+Along with their virtual AI agents, they also have some AI features that assist agents when responding to requests. AI can offer suggested answers and actions as well as detect the tone of a request to better prepare agents when responding. The platform also has AI knowledge base tools that can help detect knowledge gaps and analytics features to provide additional insights.
+Price: Free trial available. Plans start at $19/agent per month. AI features are not available across all plans and may come at an additional cost.
+Zoho Desk
+Best AI ticketing software for Zoho users.
+Many people may be aware of Zoho for their flagship CRM tool, but they’ve been making customer service software, called Zoho Desk, for a good number of years, too. Zoho Desk has a lot of expected help desk features like a shared inbox and knowledge base builder. However, they also have an AI tool called Zia. 
+Zia can do things like suggest answers to agents based on knowledge base articles you have. It can also share notifications with you any time there’s unusual activity on a request. Further, Zia can be used as a chatbot to interact directly with customers, auto-tag tickets, and do sentiment analysis on conversations. 
+Price: Free plan available. Paid plans start at $7/user per month. Plans with AI start at $40/user per month.
+Tidio
+Best AI ticketing software for small teams.
+Though Tidio has been around for almost 10 years, they’re not as well known as others on the list. They make help desk software and have a few interesting AI features. The first is an AI chatbot called Lyro. It can handle requests on its own, but agents have the option to monitor those conversations in real time and take over if needed. 
+They also have a feature called FAQ Wizard, which uses your existing help content to build out response flows to common questions. Further, there are some agent assist tools like their reply assistant tool that do things like correct grammar in responses.
+Price: Free plan available. Paid plans start at $29 per month. Lyro AI chatbot plans start at $39 per month.
+Hiver
+Best AI ticketing software for Gmail users
+The best way to describe Hiver is as an overlay for Gmail. Basically, it gives you help desk capabilities in Gmail, letting you do things like assign conversations and set up custom queues. They’ve even recently added some AI functionality to the tool.  
+Similar to others on the list, it can summarize messages and offer suggestions for responses (though it is currently limited to suggesting preexisting templates). You can also use AI to auto-close tickets with a thank-you note. 
+Price: Free trial available. Plans start at $19/user per month. Plans with AI features start at $49/user per month.
+As it is with most tech, there are some variants in functionality between different AI ticketing software. Depending on your team and specific needs, some more niche features might be well-suited to you. That said, there are a handful of core features we think are non-negotiable and should be on your list when looking for an AI ticket solution. 
+Agent assistance
+We think one of the most powerful things AI can do is augment all the incredible skills your human agents already have. Seek out options with things like writing assistants, the ability to summarize conversations, or capability to surface articles and suggest responses. All of those features help agents respond faster and expend less energy while doing so. 
+Task automation 
+There’s a lot of customer support work that is repetitive and predictable. Those tasks like sorting and assigning requests can be a drain on human agents, but they’re no problem for AI. Look for options that let you automate those more mundane tasks. 
+Self-service capabilities 
+As anyone working in support knows, there are some really common questions where the answer never changes. Though you probably have a knowledge base customers could look through, having something like an AI chatbot tends to be a better experience. If you’re a team that gets a high volume of routine questions about things like return policies or the like, it’s probably worth finding options with AI chatbots or AI autoresponders.
+AI may have exploded onto the scene, but it doesn’t seem like it’ll be a flash in the pan. Though there are limitations to its capabilities, there’s no denying that AI is now at a place where it can provide real value to both customer support professionals and the people they serve. 
+Look for options that augment human agents' natural abilities and take over tedious tasks that can hold staff back from doing their best work. If you’re ready to step into the AI ticketing world, consider signing up for a 15-day free trial of Help Scout here.
