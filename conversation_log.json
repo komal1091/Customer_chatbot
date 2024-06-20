@@ -1,0 +1,1778 @@
+[
+    {
+        "role": "system",
+        "content": "Welcome to Customer Support Chatbot!"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello! How can I assist you?"
+    },
+    {
+        "role": "user",
+        "content": "hello"
+    },
+    {
+        "role": "assistant",
+        "content": "How can I help you?"
+    },
+    {
+        "role": "user",
+        "content": "give me information of the price"
+    },
+    {
+        "role": "assistant",
+        "content": "Certainly! Could you please provide more context or specify what specific item or service you would like pricing information for? This will help me provide you with accurate and relevant information."
+    },
+    {
+        "role": "user",
+        "content": "i have no content please suggest me some idea about gold price"
+    },
+    {
+        "role": "assistant",
+        "content": "Sure! Here are a few ideas you can explore regarding gold prices:\n\n1. Factors influencing the price of gold: You can create a comprehensive guide discussing various factors that impact the price of gold, such as economic conditions, geopolitical events, inflation, and investor sentiment.\n\n2. Historical trends in gold prices: You can analyze historical data and trends to showcase how gold prices have evolved over time, including major events or factors that have influenced significant price fluctuations.\n\n3. Comparing gold prices with other assets: You can compare the performance of gold prices with other investment assets like stocks, bonds, real estate, or cryptocurrencies to provide insights into gold's role as a diversification tool in an investment portfolio.\n\n4. Forecasting future trends in gold prices: You can research and present expert opinions and forecasts on where gold prices might be heading in the future, considering both short-term fluctuations and long-term trends.\n\n5. Impact of central bank policies on gold prices: You can explore the relationship between central bank policies, such as interest rate decisions or quantitative easing, and their impact on the price of gold.\n\nFeel free to choose any of these ideas or combine them to create a comprehensive piece on gold prices. If you need more specific guidance or information on any of these topics, feel free to ask!"
+    },
+    {
+        "role": "user",
+        "content": "exit"
+    },
+    {
+        "role": "user",
+        "content": "Thank you. Goodbye!"
+    },
+    {
+        "new_key": "new_value"
+    },
+    [
+        {
+            "role": "system",
+            "content": "Welcome to Customer Support Chatbot!"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Welcome to Customer Support Chatbot!"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you?"
+        },
+        {
+            "role": "user",
+            "content": "Hey good morning"
+        },
+        {
+            "role": "assistant",
+            "content": "Good morning! How can I assist you today?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Welcome to Customer Support Chatbot!"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you?"
+        },
+        {
+            "role": "user",
+            "content": "Hey good morning"
+        },
+        {
+            "role": "assistant",
+            "content": "Good morning! How can I assist you today?"
+        },
+        {
+            "role": "user",
+            "content": "give me details of the chatbot"
+        },
+        {
+            "role": "assistant",
+            "content": "I am an AI-powered chatbot designed to assist you with a variety of tasks and inquiries. I am programmed to understand and respond to natural language inputs to provide relevant and helpful information. I can help with answering questions, providing recommendations, giving explanations, and much more. Feel free to ask me anything you need assistance with!"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Welcome to Customer Support Chatbot!"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you?"
+        },
+        {
+            "role": "user",
+            "content": "Hey good morning"
+        },
+        {
+            "role": "assistant",
+            "content": "Good morning! How can I assist you today?"
+        },
+        {
+            "role": "user",
+            "content": "give me details of the chatbot"
+        },
+        {
+            "role": "assistant",
+            "content": "I am an AI-powered chatbot designed to assist you with a variety of tasks and inquiries. I am programmed to understand and respond to natural language inputs to provide relevant and helpful information. I can help with answering questions, providing recommendations, giving explanations, and much more. Feel free to ask me anything you need assistance with!"
+        },
+        {
+            "role": "user",
+            "content": "okaky thanks'"
+        },
+        {
+            "role": "assistant",
+            "content": "You're welcome! If you have any more questions or need assistance, feel free to ask."
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Welcome to Customer Support Chatbot!"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you?"
+        },
+        {
+            "role": "user",
+            "content": "Hey good morning"
+        },
+        {
+            "role": "assistant",
+            "content": "Good morning! How can I assist you today?"
+        },
+        {
+            "role": "user",
+            "content": "give me details of the chatbot"
+        },
+        {
+            "role": "assistant",
+            "content": "I am an AI-powered chatbot designed to assist you with a variety of tasks and inquiries. I am programmed to understand and respond to natural language inputs to provide relevant and helpful information. I can help with answering questions, providing recommendations, giving explanations, and much more. Feel free to ask me anything you need assistance with!"
+        },
+        {
+            "role": "user",
+            "content": "okaky thanks'"
+        },
+        {
+            "role": "assistant",
+            "content": "You're welcome! If you have any more questions or need assistance, feel free to ask."
+        },
+        {
+            "role": "user",
+            "content": "exit"
+        },
+        {
+            "role": "user",
+            "content": "Thank you. Goodbye!"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Welcome to Customer Support Chatbot!"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Welcome to Customer Support Chatbot!"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you?"
+        },
+        {
+            "role": "user",
+            "content": "bye"
+        },
+        {
+            "role": "assistant",
+            "content": "Goodbye! Have a great day!"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Welcome to Customer Support Chatbot!"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you?"
+        },
+        {
+            "role": "user",
+            "content": "bye"
+        },
+        {
+            "role": "assistant",
+            "content": "Goodbye! Have a great day!"
+        },
+        {
+            "role": "user",
+            "content": "exit"
+        },
+        {
+            "role": "user",
+            "content": "Thank you. Goodbye!"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Welcome to Customer Support Chatbot!"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Welcome to Customer Support Chatbot!"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you?"
+        },
+        {
+            "role": "user",
+            "content": "hello"
+        },
+        {
+            "role": "assistant",
+            "content": "How can I help you?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Welcome to Customer Support Chatbot!"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you?"
+        },
+        {
+            "role": "user",
+            "content": "hello"
+        },
+        {
+            "role": "assistant",
+            "content": "How can I help you?"
+        },
+        {
+            "role": "user",
+            "content": "good morning"
+        },
+        {
+            "role": "assistant",
+            "content": "Good morning! How can I assist you today?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Welcome to Customer Support Chatbot!"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you?"
+        },
+        {
+            "role": "user",
+            "content": "hello"
+        },
+        {
+            "role": "assistant",
+            "content": "How can I help you?"
+        },
+        {
+            "role": "user",
+            "content": "good morning"
+        },
+        {
+            "role": "assistant",
+            "content": "Good morning! How can I assist you today?"
+        },
+        {
+            "role": "user",
+            "content": "give me some details of milk brands all over world"
+        },
+        {
+            "role": "assistant",
+            "content": "There are numerous milk brands available all over the world, each offering their own unique products and varieties. Here are some popular milk brands from different regions:\n\n1. United States:\n- Organic Valley\n- Horizon Organic\n- Hood\n- Clover Stornetta Farms\n- Promised Land Dairy\n\n2. Europe:\n- Arla\n- M\u00fcller\n- Lactalis\n- Parmalat\n- Galbani\n\n3. Australia:\n- Devondale\n- Dairy Farmers\n- Pauls\n- A2 Milk\n\n4. New Zealand:\n- Anchor\n- Meadow Fresh\n- Lewis Road Creamery\n\n5. Canada:\n- Neilson\n- Natrel\n- Lucerne\n\n6. India:\n- Amul\n- Mother Dairy\n- Nandini\n- Verka\n- Aavin\n\n7. Japan:\n- Meiji\n- Morinaga\n- Calpis\n- Yakult\n\nThese are just a few examples of milk brands from different parts of the world. Each brand may offer various types of milk such as whole milk, low-fat milk, organic milk, flavored milk, lactose-free milk, and more."
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Welcome to Customer Support Chatbot!"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you?"
+        },
+        {
+            "role": "user",
+            "content": "hello"
+        },
+        {
+            "role": "assistant",
+            "content": "How can I help you?"
+        },
+        {
+            "role": "user",
+            "content": "good morning"
+        },
+        {
+            "role": "assistant",
+            "content": "Good morning! How can I assist you today?"
+        },
+        {
+            "role": "user",
+            "content": "give me some details of milk brands all over world"
+        },
+        {
+            "role": "assistant",
+            "content": "There are numerous milk brands available all over the world, each offering their own unique products and varieties. Here are some popular milk brands from different regions:\n\n1. United States:\n- Organic Valley\n- Horizon Organic\n- Hood\n- Clover Stornetta Farms\n- Promised Land Dairy\n\n2. Europe:\n- Arla\n- M\u00fcller\n- Lactalis\n- Parmalat\n- Galbani\n\n3. Australia:\n- Devondale\n- Dairy Farmers\n- Pauls\n- A2 Milk\n\n4. New Zealand:\n- Anchor\n- Meadow Fresh\n- Lewis Road Creamery\n\n5. Canada:\n- Neilson\n- Natrel\n- Lucerne\n\n6. India:\n- Amul\n- Mother Dairy\n- Nandini\n- Verka\n- Aavin\n\n7. Japan:\n- Meiji\n- Morinaga\n- Calpis\n- Yakult\n\nThese are just a few examples of milk brands from different parts of the world. Each brand may offer various types of milk such as whole milk, low-fat milk, organic milk, flavored milk, lactose-free milk, and more."
+        },
+        {
+            "role": "user",
+            "content": "how many brands are available in worlds "
+        },
+        {
+            "role": "assistant",
+            "content": "There are countless brands available in the world across various industries and categories. It's hard to provide an exact number as new brands are constantly being created and established brands evolve and change over time. Some estimates suggest that there are millions of brands worldwide."
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Welcome to Customer Support Chatbot!"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you?"
+        },
+        {
+            "role": "user",
+            "content": "hello"
+        },
+        {
+            "role": "assistant",
+            "content": "How can I help you?"
+        },
+        {
+            "role": "user",
+            "content": "good morning"
+        },
+        {
+            "role": "assistant",
+            "content": "Good morning! How can I assist you today?"
+        },
+        {
+            "role": "user",
+            "content": "give me some details of milk brands all over world"
+        },
+        {
+            "role": "assistant",
+            "content": "There are numerous milk brands available all over the world, each offering their own unique products and varieties. Here are some popular milk brands from different regions:\n\n1. United States:\n- Organic Valley\n- Horizon Organic\n- Hood\n- Clover Stornetta Farms\n- Promised Land Dairy\n\n2. Europe:\n- Arla\n- M\u00fcller\n- Lactalis\n- Parmalat\n- Galbani\n\n3. Australia:\n- Devondale\n- Dairy Farmers\n- Pauls\n- A2 Milk\n\n4. New Zealand:\n- Anchor\n- Meadow Fresh\n- Lewis Road Creamery\n\n5. Canada:\n- Neilson\n- Natrel\n- Lucerne\n\n6. India:\n- Amul\n- Mother Dairy\n- Nandini\n- Verka\n- Aavin\n\n7. Japan:\n- Meiji\n- Morinaga\n- Calpis\n- Yakult\n\nThese are just a few examples of milk brands from different parts of the world. Each brand may offer various types of milk such as whole milk, low-fat milk, organic milk, flavored milk, lactose-free milk, and more."
+        },
+        {
+            "role": "user",
+            "content": "how many brands are available in worlds "
+        },
+        {
+            "role": "assistant",
+            "content": "There are countless brands available in the world across various industries and categories. It's hard to provide an exact number as new brands are constantly being created and established brands evolve and change over time. Some estimates suggest that there are millions of brands worldwide."
+        },
+        {
+            "role": "user",
+            "content": "thank you for your answer"
+        },
+        {
+            "role": "assistant",
+            "content": "You're welcome! If you have any more questions or need further assistance, feel free to ask."
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Welcome to Customer Support Chatbot!"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you?"
+        },
+        {
+            "role": "user",
+            "content": "hello"
+        },
+        {
+            "role": "assistant",
+            "content": "How can I help you?"
+        },
+        {
+            "role": "user",
+            "content": "good morning"
+        },
+        {
+            "role": "assistant",
+            "content": "Good morning! How can I assist you today?"
+        },
+        {
+            "role": "user",
+            "content": "give me some details of milk brands all over world"
+        },
+        {
+            "role": "assistant",
+            "content": "There are numerous milk brands available all over the world, each offering their own unique products and varieties. Here are some popular milk brands from different regions:\n\n1. United States:\n- Organic Valley\n- Horizon Organic\n- Hood\n- Clover Stornetta Farms\n- Promised Land Dairy\n\n2. Europe:\n- Arla\n- M\u00fcller\n- Lactalis\n- Parmalat\n- Galbani\n\n3. Australia:\n- Devondale\n- Dairy Farmers\n- Pauls\n- A2 Milk\n\n4. New Zealand:\n- Anchor\n- Meadow Fresh\n- Lewis Road Creamery\n\n5. Canada:\n- Neilson\n- Natrel\n- Lucerne\n\n6. India:\n- Amul\n- Mother Dairy\n- Nandini\n- Verka\n- Aavin\n\n7. Japan:\n- Meiji\n- Morinaga\n- Calpis\n- Yakult\n\nThese are just a few examples of milk brands from different parts of the world. Each brand may offer various types of milk such as whole milk, low-fat milk, organic milk, flavored milk, lactose-free milk, and more."
+        },
+        {
+            "role": "user",
+            "content": "how many brands are available in worlds "
+        },
+        {
+            "role": "assistant",
+            "content": "There are countless brands available in the world across various industries and categories. It's hard to provide an exact number as new brands are constantly being created and established brands evolve and change over time. Some estimates suggest that there are millions of brands worldwide."
+        },
+        {
+            "role": "user",
+            "content": "thank you for your answer"
+        },
+        {
+            "role": "assistant",
+            "content": "You're welcome! If you have any more questions or need further assistance, feel free to ask."
+        },
+        {
+            "role": "user",
+            "content": "exit"
+        },
+        {
+            "role": "user",
+            "content": "Thank you. Goodbye!"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Welcome to Customer Support Chatbot!"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Welcome to Customer Support Chatbot!"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you?"
+        },
+        {
+            "role": "user",
+            "content": "hello"
+        },
+        {
+            "role": "assistant",
+            "content": "How can I help you?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Welcome to Customer Support Chatbot!"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you?"
+        },
+        {
+            "role": "user",
+            "content": "hello"
+        },
+        {
+            "role": "assistant",
+            "content": "How can I help you?"
+        },
+        {
+            "role": "user",
+            "content": "good morning"
+        },
+        {
+            "role": "assistant",
+            "content": "Good morning! How can I assist you today?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Welcome to Customer Support Chatbot!"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you?"
+        },
+        {
+            "role": "user",
+            "content": "hello"
+        },
+        {
+            "role": "assistant",
+            "content": "How can I help you?"
+        },
+        {
+            "role": "user",
+            "content": "good morning"
+        },
+        {
+            "role": "assistant",
+            "content": "Good morning! How can I assist you today?"
+        },
+        {
+            "role": "user",
+            "content": "give me some idea about birthday game"
+        },
+        {
+            "role": "assistant",
+            "content": "Sure! Here are some fun birthday game ideas:\n\n1. Pin the Tail on the Donkey: A classic game where blindfolded players try to pin a tail on a picture of a donkey while being spun around.\n2. Musical Chairs: Set up chairs in a circle, play music, and have guests walk around the chairs. When the music stops, everyone must find a chair to sit in. One chair is removed each round, and the last person standing wins.\n3. Balloon Pop: Fill balloons with small prizes or candy and hang them up. Guests can take turns popping balloons to reveal their surprise.\n4. Birthday Bingo: Create bingo cards with birthday-themed items or pictures. Call out items and guests can mark them off on their card. The first person to get bingo wins a prize.\n5. Treasure Hunt: Create a treasure map with clues leading to hidden treasures around the party space. Guests can work together or compete to find the treasures.\n\nThese are just a few ideas to get you started. You can tailor the games to fit the age group and interests of the birthday celebrant and guests. Have fun planning the games!"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Welcome to Customer Support Chatbot!"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you?"
+        },
+        {
+            "role": "user",
+            "content": "hello"
+        },
+        {
+            "role": "assistant",
+            "content": "How can I help you?"
+        },
+        {
+            "role": "user",
+            "content": "good morning"
+        },
+        {
+            "role": "assistant",
+            "content": "Good morning! How can I assist you today?"
+        },
+        {
+            "role": "user",
+            "content": "give me some idea about birthday game"
+        },
+        {
+            "role": "assistant",
+            "content": "Sure! Here are some fun birthday game ideas:\n\n1. Pin the Tail on the Donkey: A classic game where blindfolded players try to pin a tail on a picture of a donkey while being spun around.\n2. Musical Chairs: Set up chairs in a circle, play music, and have guests walk around the chairs. When the music stops, everyone must find a chair to sit in. One chair is removed each round, and the last person standing wins.\n3. Balloon Pop: Fill balloons with small prizes or candy and hang them up. Guests can take turns popping balloons to reveal their surprise.\n4. Birthday Bingo: Create bingo cards with birthday-themed items or pictures. Call out items and guests can mark them off on their card. The first person to get bingo wins a prize.\n5. Treasure Hunt: Create a treasure map with clues leading to hidden treasures around the party space. Guests can work together or compete to find the treasures.\n\nThese are just a few ideas to get you started. You can tailor the games to fit the age group and interests of the birthday celebrant and guests. Have fun planning the games!"
+        },
+        {
+            "role": "user",
+            "content": "give me idea about year 1 to 2 year childerns"
+        },
+        {
+            "role": "assistant",
+            "content": "For children aged 1 to 2 years old, it's important to engage them in activities that promote their physical, cognitive, and social development. Here are some ideas:\n\n1. Sensory Play: Set up sensory bins with materials like rice, water, sand, or pasta for them to explore through touch.\n2. Shape Sorters and Stackers: Toys that involve sorting shapes or stacking blocks can help develop their fine motor skills and hand-eye coordination.\n3. Outdoor Exploration: Take them to the park or playground to explore nature and engage in physical activities like climbing, swinging, and running.\n4. Reading and Storytelling: Read books with colorful pictures and simple stories to help them develop language and literacy skills.\n5. Music and Dance: Play music and encourage them to dance and move to the rhythm, which can help with their coordination and motor skills.\n6. Puzzles and Matching Games: Introduce simple puzzles and matching games to encourage problem-solving and cognitive development.\n7. Imaginative Play: Provide them with toys like dolls, stuffed animals, or toy vehicles to engage in imaginative play and role-playing activities.\n8. Outdoor Play: Take them outside to explore nature, play in sandboxes, or splash in water tables to promote physical development and sensory experiences.\n\nRemember to always supervise children during these activities and provide a safe and nurturing environment for them to explore and learn."
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Welcome to Customer Support Chatbot!"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you?"
+        },
+        {
+            "role": "user",
+            "content": "hello"
+        },
+        {
+            "role": "assistant",
+            "content": "How can I help you?"
+        },
+        {
+            "role": "user",
+            "content": "good morning"
+        },
+        {
+            "role": "assistant",
+            "content": "Good morning! How can I assist you today?"
+        },
+        {
+            "role": "user",
+            "content": "give me some idea about birthday game"
+        },
+        {
+            "role": "assistant",
+            "content": "Sure! Here are some fun birthday game ideas:\n\n1. Pin the Tail on the Donkey: A classic game where blindfolded players try to pin a tail on a picture of a donkey while being spun around.\n2. Musical Chairs: Set up chairs in a circle, play music, and have guests walk around the chairs. When the music stops, everyone must find a chair to sit in. One chair is removed each round, and the last person standing wins.\n3. Balloon Pop: Fill balloons with small prizes or candy and hang them up. Guests can take turns popping balloons to reveal their surprise.\n4. Birthday Bingo: Create bingo cards with birthday-themed items or pictures. Call out items and guests can mark them off on their card. The first person to get bingo wins a prize.\n5. Treasure Hunt: Create a treasure map with clues leading to hidden treasures around the party space. Guests can work together or compete to find the treasures.\n\nThese are just a few ideas to get you started. You can tailor the games to fit the age group and interests of the birthday celebrant and guests. Have fun planning the games!"
+        },
+        {
+            "role": "user",
+            "content": "give me idea about year 1 to 2 year childerns"
+        },
+        {
+            "role": "assistant",
+            "content": "For children aged 1 to 2 years old, it's important to engage them in activities that promote their physical, cognitive, and social development. Here are some ideas:\n\n1. Sensory Play: Set up sensory bins with materials like rice, water, sand, or pasta for them to explore through touch.\n2. Shape Sorters and Stackers: Toys that involve sorting shapes or stacking blocks can help develop their fine motor skills and hand-eye coordination.\n3. Outdoor Exploration: Take them to the park or playground to explore nature and engage in physical activities like climbing, swinging, and running.\n4. Reading and Storytelling: Read books with colorful pictures and simple stories to help them develop language and literacy skills.\n5. Music and Dance: Play music and encourage them to dance and move to the rhythm, which can help with their coordination and motor skills.\n6. Puzzles and Matching Games: Introduce simple puzzles and matching games to encourage problem-solving and cognitive development.\n7. Imaginative Play: Provide them with toys like dolls, stuffed animals, or toy vehicles to engage in imaginative play and role-playing activities.\n8. Outdoor Play: Take them outside to explore nature, play in sandboxes, or splash in water tables to promote physical development and sensory experiences.\n\nRemember to always supervise children during these activities and provide a safe and nurturing environment for them to explore and learn."
+        },
+        {
+            "role": "user",
+            "content": "birthday return gift for childern"
+        },
+        {
+            "role": "assistant",
+            "content": "When choosing return gifts for children's birthdays, it's a good idea to consider items that are fun, age-appropriate, and possibly educational. Here are some ideas for birthday return gifts for children:\n\n1. Stickers or temporary tattoos\n2. Craft kits or DIY art supplies\n3. Small board games or puzzles\n4. Coloring books and crayons\n5. Stationery items like cute pens, erasers, or notepads\n6. Mini stuffed animals or keychains\n7. Character-themed goodies such as stickers, notebooks, or accessories\n8. Healthy snacks like mini packs of popcorn, fruit snacks, or granola bars\n9. Play dough or slime\n10. Mini storybooks or activity books\n\nRemember to tailor the gifts to the age group of the children attending the party and consider any potential allergies or sensitivities when selecting items. It's also thoughtful to include a personalized thank-you note with each return gift."
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Welcome to Customer Support Chatbot!"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you?"
+        },
+        {
+            "role": "user",
+            "content": "hello"
+        },
+        {
+            "role": "assistant",
+            "content": "How can I help you?"
+        },
+        {
+            "role": "user",
+            "content": "good morning"
+        },
+        {
+            "role": "assistant",
+            "content": "Good morning! How can I assist you today?"
+        },
+        {
+            "role": "user",
+            "content": "give me some idea about birthday game"
+        },
+        {
+            "role": "assistant",
+            "content": "Sure! Here are some fun birthday game ideas:\n\n1. Pin the Tail on the Donkey: A classic game where blindfolded players try to pin a tail on a picture of a donkey while being spun around.\n2. Musical Chairs: Set up chairs in a circle, play music, and have guests walk around the chairs. When the music stops, everyone must find a chair to sit in. One chair is removed each round, and the last person standing wins.\n3. Balloon Pop: Fill balloons with small prizes or candy and hang them up. Guests can take turns popping balloons to reveal their surprise.\n4. Birthday Bingo: Create bingo cards with birthday-themed items or pictures. Call out items and guests can mark them off on their card. The first person to get bingo wins a prize.\n5. Treasure Hunt: Create a treasure map with clues leading to hidden treasures around the party space. Guests can work together or compete to find the treasures.\n\nThese are just a few ideas to get you started. You can tailor the games to fit the age group and interests of the birthday celebrant and guests. Have fun planning the games!"
+        },
+        {
+            "role": "user",
+            "content": "give me idea about year 1 to 2 year childerns"
+        },
+        {
+            "role": "assistant",
+            "content": "For children aged 1 to 2 years old, it's important to engage them in activities that promote their physical, cognitive, and social development. Here are some ideas:\n\n1. Sensory Play: Set up sensory bins with materials like rice, water, sand, or pasta for them to explore through touch.\n2. Shape Sorters and Stackers: Toys that involve sorting shapes or stacking blocks can help develop their fine motor skills and hand-eye coordination.\n3. Outdoor Exploration: Take them to the park or playground to explore nature and engage in physical activities like climbing, swinging, and running.\n4. Reading and Storytelling: Read books with colorful pictures and simple stories to help them develop language and literacy skills.\n5. Music and Dance: Play music and encourage them to dance and move to the rhythm, which can help with their coordination and motor skills.\n6. Puzzles and Matching Games: Introduce simple puzzles and matching games to encourage problem-solving and cognitive development.\n7. Imaginative Play: Provide them with toys like dolls, stuffed animals, or toy vehicles to engage in imaginative play and role-playing activities.\n8. Outdoor Play: Take them outside to explore nature, play in sandboxes, or splash in water tables to promote physical development and sensory experiences.\n\nRemember to always supervise children during these activities and provide a safe and nurturing environment for them to explore and learn."
+        },
+        {
+            "role": "user",
+            "content": "birthday return gift for childern"
+        },
+        {
+            "role": "assistant",
+            "content": "When choosing return gifts for children's birthdays, it's a good idea to consider items that are fun, age-appropriate, and possibly educational. Here are some ideas for birthday return gifts for children:\n\n1. Stickers or temporary tattoos\n2. Craft kits or DIY art supplies\n3. Small board games or puzzles\n4. Coloring books and crayons\n5. Stationery items like cute pens, erasers, or notepads\n6. Mini stuffed animals or keychains\n7. Character-themed goodies such as stickers, notebooks, or accessories\n8. Healthy snacks like mini packs of popcorn, fruit snacks, or granola bars\n9. Play dough or slime\n10. Mini storybooks or activity books\n\nRemember to tailor the gifts to the age group of the children attending the party and consider any potential allergies or sensitivities when selecting items. It's also thoughtful to include a personalized thank-you note with each return gift."
+        },
+        {
+            "role": "user",
+            "content": "exit"
+        },
+        {
+            "role": "user",
+            "content": "Thank you. Goodbye!"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Welcome to Customer Support Chatbot!"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Welcome to Customer Support Chatbot!"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you?"
+        },
+        {
+            "role": "user",
+            "content": "exit"
+        },
+        {
+            "role": "user",
+            "content": "Thank you. Goodbye!"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Welcome to Customer Support Chatbot!"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Welcome to Customer Support Chatbot!"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you?"
+        },
+        {
+            "role": "user",
+            "content": "exit"
+        },
+        {
+            "role": "user",
+            "content": "Thank you. Goodbye!"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Welcome to Customer Support Chatbot!"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Welcome to Customer Support Chatbot!"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you?"
+        },
+        {
+            "role": "user",
+            "content": "exit"
+        },
+        {
+            "role": "user",
+            "content": "Thank you. Goodbye!"
+        }
+    ],
+    {
+        "new_key": "new_value"
+    },
+    [
+        {
+            "role": "system",
+            "content": "Welcome to Customer Support Chatbot!"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Welcome to Customer Support Chatbot!"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you?"
+        },
+        {
+            "role": "user",
+            "content": "hello"
+        },
+        {
+            "role": "assistant",
+            "content": "How can I help you?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Welcome to Customer Support Chatbot!"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you?"
+        },
+        {
+            "role": "user",
+            "content": "hello"
+        },
+        {
+            "role": "assistant",
+            "content": "How can I help you?"
+        },
+        {
+            "role": "user",
+            "content": "give me birthday celebration idea about 1st birthday"
+        },
+        {
+            "role": "assistant",
+            "content": "For a 1st birthday celebration, you can consider the following ideas:\n\n1. **Theme Party**: Choose a fun and colorful theme such as \"baby animals\", \"one is fun\", or \"wild one\".\n\n2. **Smash Cake Photoshoot**: Set up a cute backdrop and let your little one smash a small cake while capturing adorable photos.\n\n3. **Outdoor Picnic**: Host a relaxed outdoor picnic in a park or your backyard with simple finger foods and snacks.\n\n4. **Dress Up Party**: Invite guests to dress up in costumes or coordinate outfits with the birthday child.\n\n5. **DIY Sensory Play**: Create a sensory play area with various textures and materials for the little ones to explore.\n\n6. **Time Capsule Activity**: Have guests write notes or fill a time capsule with messages and memories for the child to open on a future birthday.\n\n7. **Music and Dance Party**: Play some lively music and encourage babies and toddlers to dance and move around.\n\nRemember to keep the celebration short and sweet, considering the attention span of little ones. Happy planning!"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Welcome to Customer Support Chatbot!"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you?"
+        },
+        {
+            "role": "user",
+            "content": "hello"
+        },
+        {
+            "role": "assistant",
+            "content": "How can I help you?"
+        },
+        {
+            "role": "user",
+            "content": "give me birthday celebration idea about 1st birthday"
+        },
+        {
+            "role": "assistant",
+            "content": "For a 1st birthday celebration, you can consider the following ideas:\n\n1. **Theme Party**: Choose a fun and colorful theme such as \"baby animals\", \"one is fun\", or \"wild one\".\n\n2. **Smash Cake Photoshoot**: Set up a cute backdrop and let your little one smash a small cake while capturing adorable photos.\n\n3. **Outdoor Picnic**: Host a relaxed outdoor picnic in a park or your backyard with simple finger foods and snacks.\n\n4. **Dress Up Party**: Invite guests to dress up in costumes or coordinate outfits with the birthday child.\n\n5. **DIY Sensory Play**: Create a sensory play area with various textures and materials for the little ones to explore.\n\n6. **Time Capsule Activity**: Have guests write notes or fill a time capsule with messages and memories for the child to open on a future birthday.\n\n7. **Music and Dance Party**: Play some lively music and encourage babies and toddlers to dance and move around.\n\nRemember to keep the celebration short and sweet, considering the attention span of little ones. Happy planning!"
+        },
+        {
+            "role": "user",
+            "content": "exit"
+        },
+        {
+            "role": "user",
+            "content": "Thank you. Goodbye!"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Welcome to Customer Support Chatbot!"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Welcome to Customer Support Chatbot!"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you?"
+        },
+        {
+            "role": "user",
+            "content": "hello"
+        },
+        {
+            "role": "assistant",
+            "content": "How can I help you?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Welcome to Customer Support Chatbot!"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you?"
+        },
+        {
+            "role": "user",
+            "content": "hello"
+        },
+        {
+            "role": "assistant",
+            "content": "How can I help you?"
+        },
+        {
+            "role": "user",
+            "content": "exit"
+        },
+        {
+            "role": "user",
+            "content": "Thank you. Goodbye!"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Welcome to Customer Support Chatbot!"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you?"
+        },
+        {
+            "role": "user",
+            "content": "hello"
+        },
+        {
+            "role": "user",
+            "content": "hello"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you today?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Welcome to Customer Support Chatbot!"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Welcome to Customer Support Chatbot!"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you?"
+        },
+        {
+            "role": "user",
+            "content": "hello"
+        },
+        {
+            "role": "assistant",
+            "content": "How can I help you?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Welcome to Customer Support Chatbot!"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you?"
+        },
+        {
+            "role": "user",
+            "content": "hello"
+        },
+        {
+            "role": "assistant",
+            "content": "How can I help you?"
+        },
+        {
+            "role": "user",
+            "content": "exit"
+        },
+        {
+            "role": "user",
+            "content": "Thank you. Goodbye!"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Welcome to Customer Support Chatbot!"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Welcome to Customer Support Chatbot!"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you?"
+        },
+        {
+            "role": "user",
+            "content": "exit"
+        },
+        {
+            "role": "user",
+            "content": "Thank you. Goodbye!"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Welcome to Customer Support Chatbot!"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Welcome to Customer Support Chatbot!"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you?"
+        },
+        {
+            "role": "user",
+            "content": "hello"
+        },
+        {
+            "role": "assistant",
+            "content": "How can I help you?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Welcome to Customer Support Chatbot!"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you?"
+        },
+        {
+            "role": "user",
+            "content": "hello"
+        },
+        {
+            "role": "assistant",
+            "content": "How can I help you?"
+        },
+        {
+            "role": "user",
+            "content": "give me some flavour of ice cream"
+        },
+        {
+            "role": "assistant",
+            "content": "How about trying a classic flavor like vanilla bean for a simple and delicious choice? Or if you're feeling adventurous, you could go for something more unique like salted caramel swirl or strawberry basil. There are so many delightful options to choose from!"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Welcome to Customer Support Chatbot!"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you?"
+        },
+        {
+            "role": "user",
+            "content": "hello"
+        },
+        {
+            "role": "assistant",
+            "content": "How can I help you?"
+        },
+        {
+            "role": "user",
+            "content": "give me some flavour of ice cream"
+        },
+        {
+            "role": "assistant",
+            "content": "How about trying a classic flavor like vanilla bean for a simple and delicious choice? Or if you're feeling adventurous, you could go for something more unique like salted caramel swirl or strawberry basil. There are so many delightful options to choose from!"
+        },
+        {
+            "role": "user",
+            "content": "please give me vanilla flavour  how to make"
+        },
+        {
+            "role": "assistant",
+            "content": "To make vanilla flavor at home, you can create a simple vanilla extract with just two ingredients: vanilla beans and alcohol. Here's a basic recipe for homemade vanilla extract:\n\nIngredients:\n- 5-6 vanilla beans\n- 1 cup of vodka or rum\n\nInstructions:\n1. Using a sharp knife, split the vanilla beans lengthwise, leaving about an inch at one end uncut.\n2. Place the split vanilla beans in a clean glass jar or bottle.\n3. Pour the vodka or rum over the vanilla beans, making sure they are completely submerged in the alcohol.\n4. Seal the jar or bottle tightly with a lid.\n5. Store the vanilla extract in a cool, dark place for at least 4-6 weeks, shaking the container gently every week or so.\n6. After the extraction period, your homemade vanilla extract will be ready to use.\n\nYou can adjust the strength of the vanilla flavor by adding more or fewer vanilla beans and varying the extraction time. Homemade vanilla extract can be used in baking, cooking, and flavoring beverages. Enjoy your homemade vanilla flavor!"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Welcome to Customer Support Chatbot!"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you?"
+        },
+        {
+            "role": "user",
+            "content": "hello"
+        },
+        {
+            "role": "assistant",
+            "content": "How can I help you?"
+        },
+        {
+            "role": "user",
+            "content": "give me some flavour of ice cream"
+        },
+        {
+            "role": "assistant",
+            "content": "How about trying a classic flavor like vanilla bean for a simple and delicious choice? Or if you're feeling adventurous, you could go for something more unique like salted caramel swirl or strawberry basil. There are so many delightful options to choose from!"
+        },
+        {
+            "role": "user",
+            "content": "please give me vanilla flavour  how to make"
+        },
+        {
+            "role": "assistant",
+            "content": "To make vanilla flavor at home, you can create a simple vanilla extract with just two ingredients: vanilla beans and alcohol. Here's a basic recipe for homemade vanilla extract:\n\nIngredients:\n- 5-6 vanilla beans\n- 1 cup of vodka or rum\n\nInstructions:\n1. Using a sharp knife, split the vanilla beans lengthwise, leaving about an inch at one end uncut.\n2. Place the split vanilla beans in a clean glass jar or bottle.\n3. Pour the vodka or rum over the vanilla beans, making sure they are completely submerged in the alcohol.\n4. Seal the jar or bottle tightly with a lid.\n5. Store the vanilla extract in a cool, dark place for at least 4-6 weeks, shaking the container gently every week or so.\n6. After the extraction period, your homemade vanilla extract will be ready to use.\n\nYou can adjust the strength of the vanilla flavor by adding more or fewer vanilla beans and varying the extraction time. Homemade vanilla extract can be used in baking, cooking, and flavoring beverages. Enjoy your homemade vanilla flavor!"
+        },
+        {
+            "role": "user",
+            "content": "can i vanila and dark flavour add"
+        },
+        {
+            "role": "assistant",
+            "content": "Yes, you can definitely add both vanilla and dark flavors to your dish or recipe to create a unique and delicious combination. The sweetness of the vanilla can complement the richness of the dark flavor, resulting in a well-balanced taste. Just be sure to adjust the amounts of each flavor to achieve the desired taste profile. Enjoy experimenting in the kitchen!"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Welcome to Customer Support Chatbot!"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you?"
+        },
+        {
+            "role": "user",
+            "content": "hello"
+        },
+        {
+            "role": "assistant",
+            "content": "How can I help you?"
+        },
+        {
+            "role": "user",
+            "content": "give me some flavour of ice cream"
+        },
+        {
+            "role": "assistant",
+            "content": "How about trying a classic flavor like vanilla bean for a simple and delicious choice? Or if you're feeling adventurous, you could go for something more unique like salted caramel swirl or strawberry basil. There are so many delightful options to choose from!"
+        },
+        {
+            "role": "user",
+            "content": "please give me vanilla flavour  how to make"
+        },
+        {
+            "role": "assistant",
+            "content": "To make vanilla flavor at home, you can create a simple vanilla extract with just two ingredients: vanilla beans and alcohol. Here's a basic recipe for homemade vanilla extract:\n\nIngredients:\n- 5-6 vanilla beans\n- 1 cup of vodka or rum\n\nInstructions:\n1. Using a sharp knife, split the vanilla beans lengthwise, leaving about an inch at one end uncut.\n2. Place the split vanilla beans in a clean glass jar or bottle.\n3. Pour the vodka or rum over the vanilla beans, making sure they are completely submerged in the alcohol.\n4. Seal the jar or bottle tightly with a lid.\n5. Store the vanilla extract in a cool, dark place for at least 4-6 weeks, shaking the container gently every week or so.\n6. After the extraction period, your homemade vanilla extract will be ready to use.\n\nYou can adjust the strength of the vanilla flavor by adding more or fewer vanilla beans and varying the extraction time. Homemade vanilla extract can be used in baking, cooking, and flavoring beverages. Enjoy your homemade vanilla flavor!"
+        },
+        {
+            "role": "user",
+            "content": "can i vanila and dark flavour add"
+        },
+        {
+            "role": "assistant",
+            "content": "Yes, you can definitely add both vanilla and dark flavors to your dish or recipe to create a unique and delicious combination. The sweetness of the vanilla can complement the richness of the dark flavor, resulting in a well-balanced taste. Just be sure to adjust the amounts of each flavor to achieve the desired taste profile. Enjoy experimenting in the kitchen!"
+        },
+        {
+            "role": "user",
+            "content": "exit"
+        },
+        {
+            "role": "user",
+            "content": "Thank you. Goodbye!"
+        }
+    ],
+    [
+        {
+            "role": "user",
+            "content": "hello"
+        },
+        {
+            "role": "assistant",
+            "content": "How can I help you?"
+        }
+    ],
+    [
+        {
+            "role": "user",
+            "content": "hello"
+        },
+        {
+            "role": "assistant",
+            "content": "How can I help you?"
+        },
+        {
+            "role": "user",
+            "content": "what is today"
+        },
+        {
+            "role": "assistant",
+            "content": "Today is Thursday. How can I assist you today?"
+        }
+    ],
+    [
+        {
+            "role": "user",
+            "content": "hello"
+        },
+        {
+            "role": "assistant",
+            "content": "How can I help you?"
+        },
+        {
+            "role": "user",
+            "content": "what is today"
+        },
+        {
+            "role": "assistant",
+            "content": "Today is Thursday. How can I assist you today?"
+        },
+        {
+            "role": "user",
+            "content": "exit"
+        },
+        {
+            "role": "user",
+            "content": "Thank you. Goodbye!"
+        }
+    ],
+    {
+        "role": "user",
+        "content": "hello"
+    },
+    {
+        "role": "assistant",
+        "content": "How can I help you?"
+    },
+    {
+        "role": "user",
+        "content": "give me details of srk movies"
+    },
+    {
+        "role": "assistant",
+        "content": "Shah Rukh Khan, also known as SRK, is a popular Indian actor who has starred in numerous Bollywood movies. Some of his most iconic and successful films include:\n\n1. Dilwale Dulhania Le Jayenge (1995) - This romantic drama directed by Aditya Chopra is one of Bollywood's most beloved films and solidified Shah Rukh Khan's status as the \"King of Romance.\"\n\n2. Kuch Kuch Hota Hai (1998) - Directed by Karan Johar, this film was a blockbuster hit and showcased Khan's versatility as an actor in a romantic and emotional storyline.\n\n3. Devdas (2002) - In this movie directed by Sanjay Leela Bhansali, Shah Rukh Khan played the titular character in a tragic love story based on the novel of the same name.\n\n4. Don (2006) - A modern-day remake of the classic film, \"Don\" showcased Shah Rukh Khan's acting prowess in a negative role, giving the character a suave and villainous persona.\n\n5. Chennai Express (2013) - This action-comedy film directed by Rohit Shetty featured Khan in a new light, combining humor and action in a commercially successful venture.\n\n6. My Name is Khan (2010) - In this drama directed by Karan Johar, Khan portrayed a character with Asperger's syndrome who embarks on a journey of self-discovery and acceptance.\n\nThese are just a few examples of Shah Rukh Khan's extensive filmography that spans various genres and styles, showcasing his talent and charisma as one of Bollywood's leading actors."
+    },
+    {
+        "role": "user",
+        "content": "exit"
+    },
+    {
+        "role": "user",
+        "content": "Thank you. Goodbye!"
+    },
+    [
+        {
+            "role": "system",
+            "content": "Welcome to Customer Support Chatbot!"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Welcome to Customer Support Chatbot!"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you?"
+        },
+        {
+            "role": "user",
+            "content": "hello"
+        },
+        {
+            "role": "assistant",
+            "content": "How can I help you?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Welcome to Customer Support Chatbot!"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you?"
+        },
+        {
+            "role": "user",
+            "content": "hello"
+        },
+        {
+            "role": "assistant",
+            "content": "How can I help you?"
+        },
+        {
+            "role": "user",
+            "content": "good afternoon"
+        },
+        {
+            "role": "assistant",
+            "content": "Good afternoon! How can I assist you today?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Welcome to Customer Support Chatbot!"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you?"
+        },
+        {
+            "role": "user",
+            "content": "hello"
+        },
+        {
+            "role": "assistant",
+            "content": "How can I help you?"
+        },
+        {
+            "role": "user",
+            "content": "good afternoon"
+        },
+        {
+            "role": "assistant",
+            "content": "Good afternoon! How can I assist you today?"
+        },
+        {
+            "role": "user",
+            "content": "please some idea about summer outfit"
+        },
+        {
+            "role": "assistant",
+            "content": "Sure! Here are some ideas for summer outfits:\n\n1. A flowy sundress paired with sandals and a straw hat for a casual day out.\n2. High-waisted shorts with a cute graphic tee and sneakers for a relaxed and stylish look.\n3. A light and breezy maxi dress with espadrille wedges for a beach or brunch outing.\n4. A linen button-up shirt with white jeans and loafers for a chic and put-together vibe.\n5. A crop top with high-waisted skirt and platform sandals for a fun and trendy summer look.\n\nRemember to choose breathable fabrics like cotton, linen, or chambray to stay cool and comfortable in the summer heat. Have fun mixing and matching pieces to create your own unique summer outfits!"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Welcome to Customer Support Chatbot!"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you?"
+        },
+        {
+            "role": "user",
+            "content": "hello"
+        },
+        {
+            "role": "assistant",
+            "content": "How can I help you?"
+        },
+        {
+            "role": "user",
+            "content": "good afternoon"
+        },
+        {
+            "role": "assistant",
+            "content": "Good afternoon! How can I assist you today?"
+        },
+        {
+            "role": "user",
+            "content": "please some idea about summer outfit"
+        },
+        {
+            "role": "assistant",
+            "content": "Sure! Here are some ideas for summer outfits:\n\n1. A flowy sundress paired with sandals and a straw hat for a casual day out.\n2. High-waisted shorts with a cute graphic tee and sneakers for a relaxed and stylish look.\n3. A light and breezy maxi dress with espadrille wedges for a beach or brunch outing.\n4. A linen button-up shirt with white jeans and loafers for a chic and put-together vibe.\n5. A crop top with high-waisted skirt and platform sandals for a fun and trendy summer look.\n\nRemember to choose breathable fabrics like cotton, linen, or chambray to stay cool and comfortable in the summer heat. Have fun mixing and matching pieces to create your own unique summer outfits!"
+        },
+        {
+            "role": "user",
+            "content": "summer in how can i protect heat wave"
+        },
+        {
+            "role": "assistant",
+            "content": "During a heat wave in the summer, it's important to take steps to protect yourself from the extreme temperatures. Here are some tips to help you stay safe and cool:\n\n1. Stay Hydrated: Drink plenty of water throughout the day to prevent dehydration.\n\n2. Stay Cool: Seek out air-conditioned places such as malls, libraries, or community centers. If you don't have air conditioning at home, consider visiting public places to stay cool.\n\n3. Dress Appropriately: Wear light-colored, loose-fitting clothing to help your body stay cool.\n\n4. Limit Outdoor Activities: Avoid outdoor activities during the hottest parts of the day, typically in the afternoon. If you must be outside, try to stay in shaded areas.\n\n5. Use Fans: If you don't have access to air conditioning, use fans to circulate air and help cool you down.\n\n6. Close Curtains and Blinds: Keep curtains and blinds closed during the day to block out the sun and keep your home cooler.\n\n7. Take Cool Showers or Baths: A cool shower or bath can help lower your body temperature.\n\n8. Check on Vulnerable Individuals: Make sure to check on elderly family members, neighbors, and those with chronic health conditions to ensure they are coping with the heat.\n\nBy following these tips, you can stay safe and comfortable during a summer heat wave."
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Welcome to Customer Support Chatbot!"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you?"
+        },
+        {
+            "role": "user",
+            "content": "hello"
+        },
+        {
+            "role": "assistant",
+            "content": "How can I help you?"
+        },
+        {
+            "role": "user",
+            "content": "good afternoon"
+        },
+        {
+            "role": "assistant",
+            "content": "Good afternoon! How can I assist you today?"
+        },
+        {
+            "role": "user",
+            "content": "please some idea about summer outfit"
+        },
+        {
+            "role": "assistant",
+            "content": "Sure! Here are some ideas for summer outfits:\n\n1. A flowy sundress paired with sandals and a straw hat for a casual day out.\n2. High-waisted shorts with a cute graphic tee and sneakers for a relaxed and stylish look.\n3. A light and breezy maxi dress with espadrille wedges for a beach or brunch outing.\n4. A linen button-up shirt with white jeans and loafers for a chic and put-together vibe.\n5. A crop top with high-waisted skirt and platform sandals for a fun and trendy summer look.\n\nRemember to choose breathable fabrics like cotton, linen, or chambray to stay cool and comfortable in the summer heat. Have fun mixing and matching pieces to create your own unique summer outfits!"
+        },
+        {
+            "role": "user",
+            "content": "summer in how can i protect heat wave"
+        },
+        {
+            "role": "assistant",
+            "content": "During a heat wave in the summer, it's important to take steps to protect yourself from the extreme temperatures. Here are some tips to help you stay safe and cool:\n\n1. Stay Hydrated: Drink plenty of water throughout the day to prevent dehydration.\n\n2. Stay Cool: Seek out air-conditioned places such as malls, libraries, or community centers. If you don't have air conditioning at home, consider visiting public places to stay cool.\n\n3. Dress Appropriately: Wear light-colored, loose-fitting clothing to help your body stay cool.\n\n4. Limit Outdoor Activities: Avoid outdoor activities during the hottest parts of the day, typically in the afternoon. If you must be outside, try to stay in shaded areas.\n\n5. Use Fans: If you don't have access to air conditioning, use fans to circulate air and help cool you down.\n\n6. Close Curtains and Blinds: Keep curtains and blinds closed during the day to block out the sun and keep your home cooler.\n\n7. Take Cool Showers or Baths: A cool shower or bath can help lower your body temperature.\n\n8. Check on Vulnerable Individuals: Make sure to check on elderly family members, neighbors, and those with chronic health conditions to ensure they are coping with the heat.\n\nBy following these tips, you can stay safe and comfortable during a summer heat wave."
+        },
+        {
+            "role": "user",
+            "content": "exit"
+        },
+        {
+            "role": "user",
+            "content": "Thank you. Goodbye!"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Welcome to Customer Support Chatbot!"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Welcome to Customer Support Chatbot!"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you?"
+        },
+        {
+            "role": "user",
+            "content": "hello"
+        },
+        {
+            "role": "assistant",
+            "content": "How can I help you?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Welcome to Customer Support Chatbot!"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you?"
+        },
+        {
+            "role": "user",
+            "content": "hello"
+        },
+        {
+            "role": "assistant",
+            "content": "How can I help you?"
+        },
+        {
+            "role": "user",
+            "content": "give me idea about diwali "
+        },
+        {
+            "role": "assistant",
+            "content": "Sure! Diwali, also known as the Festival of Lights, is a significant Hindu festival celebrated with much enthusiasm and joy. Some ideas to celebrate Diwali include:\n\n1. Decorating your home with colorful rangoli patterns and lights.\n2. Exchanging gifts with family and friends.\n3. Lighting diyas (oil lamps) to symbolize the victory of light over darkness.\n4. Participating in community events and fireworks displays.\n5. Preparing traditional sweets and snacks to share with loved ones.\n6. Offering prayers and performing rituals to seek blessings for prosperity and good fortune.\n7. Sharing the joy of Diwali with those in need by donating to charity or volunteering.\n\nThese are just a few ideas to make your Diwali celebration special and meaningful."
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Welcome to Customer Support Chatbot!"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you?"
+        },
+        {
+            "role": "user",
+            "content": "hello"
+        },
+        {
+            "role": "assistant",
+            "content": "How can I help you?"
+        },
+        {
+            "role": "user",
+            "content": "give me idea about diwali "
+        },
+        {
+            "role": "assistant",
+            "content": "Sure! Diwali, also known as the Festival of Lights, is a significant Hindu festival celebrated with much enthusiasm and joy. Some ideas to celebrate Diwali include:\n\n1. Decorating your home with colorful rangoli patterns and lights.\n2. Exchanging gifts with family and friends.\n3. Lighting diyas (oil lamps) to symbolize the victory of light over darkness.\n4. Participating in community events and fireworks displays.\n5. Preparing traditional sweets and snacks to share with loved ones.\n6. Offering prayers and performing rituals to seek blessings for prosperity and good fortune.\n7. Sharing the joy of Diwali with those in need by donating to charity or volunteering.\n\nThese are just a few ideas to make your Diwali celebration special and meaningful."
+        },
+        {
+            "role": "user",
+            "content": "exit"
+        },
+        {
+            "role": "user",
+            "content": "Thank you. Goodbye!"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Welcome to Customer Support Chatbot!"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Welcome to Customer Support Chatbot!"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you?"
+        },
+        {
+            "role": "user",
+            "content": "hello"
+        },
+        {
+            "role": "assistant",
+            "content": "How can I help you?"
+        }
+    ],
+    [
+        {
+            "role": "system",
+            "content": "Welcome to Customer Support Chatbot!"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you?"
+        },
+        {
+            "role": "user",
+            "content": "hello"
+        },
+        {
+            "role": "assistant",
+            "content": "How can I help you?"
+        },
+        {
+            "role": "user",
+            "content": "exit"
+        },
+        {
+            "role": "user",
+            "content": "Thank you. Goodbye!"
+        }
+    ],
+    {
+        "role": "user",
+        "content": "exit"
+    },
+    {
+        "role": "user",
+        "content": "Thank you. Goodbye!"
+    },
+    [],
+    [
+        {
+            "role": "user",
+            "content": "hello"
+        },
+        {
+            "role": "assistant",
+            "content": "How can I help you?"
+        }
+    ],
+    [
+        {
+            "role": "user",
+            "content": "hello"
+        },
+        {
+            "role": "assistant",
+            "content": "How can I help you?"
+        },
+        {
+            "role": "user",
+            "content": "please give me two number add python program"
+        },
+        {
+            "role": "assistant",
+            "content": "Sure! Here's a simple Python program to add two numbers:\n\n```python\n# Taking input from the user\nnum1 = input(\"Enter first number: \")\nnum2 = input(\"Enter second number: \")\n\n# Adding the numbers\nsum = float(num1) + float(num2)\n\n# Displaying the result\nprint(\"The sum of\", num1, \"and\", num2, \"is\", sum)\n```\n\nYou can run this program in a Python environment to add two numbers."
+        }
+    ],
+    [
+        {
+            "role": "user",
+            "content": "hello"
+        },
+        {
+            "role": "assistant",
+            "content": "How can I help you?"
+        },
+        {
+            "role": "user",
+            "content": "please give me two number add python program"
+        },
+        {
+            "role": "assistant",
+            "content": "Sure! Here's a simple Python program to add two numbers:\n\n```python\n# Taking input from the user\nnum1 = input(\"Enter first number: \")\nnum2 = input(\"Enter second number: \")\n\n# Adding the numbers\nsum = float(num1) + float(num2)\n\n# Displaying the result\nprint(\"The sum of\", num1, \"and\", num2, \"is\", sum)\n```\n\nYou can run this program in a Python environment to add two numbers."
+        },
+        {
+            "role": "user",
+            "content": "thank you for your ans"
+        },
+        {
+            "role": "assistant",
+            "content": "You're welcome! If you have any more questions or need assistance, feel free to ask."
+        }
+    ],
+    [
+        {
+            "role": "user",
+            "content": "hello"
+        },
+        {
+            "role": "assistant",
+            "content": "How can I help you?"
+        },
+        {
+            "role": "user",
+            "content": "please give me two number add python program"
+        },
+        {
+            "role": "assistant",
+            "content": "Sure! Here's a simple Python program to add two numbers:\n\n```python\n# Taking input from the user\nnum1 = input(\"Enter first number: \")\nnum2 = input(\"Enter second number: \")\n\n# Adding the numbers\nsum = float(num1) + float(num2)\n\n# Displaying the result\nprint(\"The sum of\", num1, \"and\", num2, \"is\", sum)\n```\n\nYou can run this program in a Python environment to add two numbers."
+        },
+        {
+            "role": "user",
+            "content": "thank you for your ans"
+        },
+        {
+            "role": "assistant",
+            "content": "You're welcome! If you have any more questions or need assistance, feel free to ask."
+        },
+        {
+            "role": "user",
+            "content": "exit"
+        },
+        {
+            "role": "user",
+            "content": "Thank you. Goodbye!"
+        }
+    ],
+    {
+        "role": "user",
+        "content": "exit"
+    },
+    {
+        "role": "user",
+        "content": "Thank you. Goodbye!"
+    },
+    [],
+    [
+        {
+            "role": "user",
+            "content": "hello"
+        },
+        {
+            "role": "assistant",
+            "content": "How can I help you?"
+        }
+    ],
+    [
+        {
+            "role": "user",
+            "content": "hello"
+        },
+        {
+            "role": "assistant",
+            "content": "How can I help you?"
+        },
+        {
+            "role": "user",
+            "content": "give me some idea about games"
+        },
+        {
+            "role": "assistant",
+            "content": "Sure! Here are some ideas for games you can try out:\n\n1. **Board Games**: Classic board games like Monopoly, Scrabble, or Chess are always fun options for game nights with friends and family.\n\n2. **Card Games**: Card games like Poker, Bridge, or Rummy are great for small groups or playing solo.\n\n3. **Video Games**: There are countless video games available for different consoles and platforms. You can explore popular titles like Fortnite, Minecraft, or Animal Crossing.\n\n4. **Puzzle Games**: If you enjoy brainteasers and challenges, try puzzle games like Sudoku, Crossword Puzzles, or jigsaw puzzles.\n\n5. **Outdoor Games**: If you prefer physical activity, consider playing outdoor games like Capture the Flag, Kickball, or Frisbee.\n\n6. **Party Games**: Games like Charades, Pictionary, or Werewolf are perfect for social gatherings and parties.\n\n7. **Escape Room Games**: Virtual or physical escape room games can provide a thrilling and immersive experience for you and your friends.\n\n8. **Strategy Games**: Games like Settlers of Catan, Risk, or Civilization are great for strategy enthusiasts looking for a challenge.\n\nI hope these ideas inspire you to try out some new games! Let me know if you need more suggestions."
+        }
+    ],
+    [
+        {
+            "role": "user",
+            "content": "hello"
+        },
+        {
+            "role": "assistant",
+            "content": "How can I help you?"
+        },
+        {
+            "role": "user",
+            "content": "give me some idea about games"
+        },
+        {
+            "role": "assistant",
+            "content": "Sure! Here are some ideas for games you can try out:\n\n1. **Board Games**: Classic board games like Monopoly, Scrabble, or Chess are always fun options for game nights with friends and family.\n\n2. **Card Games**: Card games like Poker, Bridge, or Rummy are great for small groups or playing solo.\n\n3. **Video Games**: There are countless video games available for different consoles and platforms. You can explore popular titles like Fortnite, Minecraft, or Animal Crossing.\n\n4. **Puzzle Games**: If you enjoy brainteasers and challenges, try puzzle games like Sudoku, Crossword Puzzles, or jigsaw puzzles.\n\n5. **Outdoor Games**: If you prefer physical activity, consider playing outdoor games like Capture the Flag, Kickball, or Frisbee.\n\n6. **Party Games**: Games like Charades, Pictionary, or Werewolf are perfect for social gatherings and parties.\n\n7. **Escape Room Games**: Virtual or physical escape room games can provide a thrilling and immersive experience for you and your friends.\n\n8. **Strategy Games**: Games like Settlers of Catan, Risk, or Civilization are great for strategy enthusiasts looking for a challenge.\n\nI hope these ideas inspire you to try out some new games! Let me know if you need more suggestions."
+        },
+        {
+            "role": "user",
+            "content": "exit"
+        },
+        {
+            "role": "user",
+            "content": "Thank you. Goodbye!"
+        }
+    ]
+]
