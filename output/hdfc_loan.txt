@@ -1,0 +1,92 @@
+HDFC Bank Loan Details
+Loan Type: Home Loan
+Eligibility: Resident Indians aged between 18 and 70 years.
+Interest Rate: 7.35% - 8.20% per annum
+Repayment System: Up to 30 years
+Rules and Regulations: Based on the property type and value, applicant's income and credit score.
+Documents Required:
+- Identity Proof
+- Address Proof
+- Income Proof
+- Bank Statements
+- Property Documents
+- Loan Application Form
+Process:
+1. Application Submission
+1. Document Verification
+1. Sanction Letter
+1. Property Evaluation
+1. Loan Agreement Signing
+1. Disbursement
+Loan Type: Personal Loan
+Eligibility: Salaried or self-employed individuals aged between 21 and 60 years.
+Interest Rate: 10.50% - 21.00% per annum
+Repayment System: 1 to 5 years
+Rules and Regulations: Based on income, employment history, and credit score.
+Documents Required:
+- Identity Proof
+- Address Proof
+- Income Proof
+- Bank Statements
+- Employment Proof
+- Loan Application Form
+Process:
+1. Application Submission
+1. Document Verification
+1. Approval
+1. Loan Agreement Signing
+1. Disbursement
+Loan Type: Car Loan
+Eligibility: Individuals aged between 21 and 65 years with a stable income.
+Interest Rate: 7.95% - 8.30% per annum
+Repayment System: Up to 7 years
+Rules and Regulations: Depends on the car model, applicant's income, and credit score.
+Documents Required:
+- Identity Proof
+- Address Proof
+- Income Proof
+- Bank Statements
+- Car Documents
+- Loan Application Form
+Process:
+1. Application Submission
+1. Document Verification
+1. Sanction
+1. Car Evaluation
+1. Loan Agreement Signing
+1. Disbursement
+Loan Type: Education Loan
+Eligibility: Indian residents aged between 16 and 35 years who have secured admission to recognized instiInterest Rate: 9.00% - 13.00% per annum
+Repayment System: Up to 15 years, with a moratorium period
+Rules and Regulations: Based on the course, institution, and applicant's academic record.
+Documents Required:
+- Identity Proof
+- Address Proof
+- Admission Proof
+- Income Proof
+- Bank Statements
+- Loan Application Form
+Process:
+1. Application Submission
+1. Document Verification
+1. Sanction Letter
+1. Loan Agreement Signing
+1. Disbursement
+Loan Type: Business Loan
+Eligibility: Self-employed professionals and non-professionals aged between 21 and 65 years.
+Interest Rate: 15.75% - 21.35% per annum
+Repayment System: Up to 5 years
+Rules and Regulations: Based on business turnover, profit, and credit score.
+Documents Required:
+- Identity Proof
+- Address Proof
+- Business Proof
+- Income Proof
+- Bank Statements
+- Loan Application Form
+Process:
+1. Application Submission
+1. Document Verification
+1. Approval
+1. Loan Agreement Signing
+1. Disbursement
